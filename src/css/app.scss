@@ -1,1 +1,14 @@
 // app global css in SCSS form
+@font-face {
+  font-family: 'Nunito';
+  src: url('./fonts/Nunito.ttf');
+}
+
+body {
+  font-family: 'Nunito';
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 2rem;
+}
